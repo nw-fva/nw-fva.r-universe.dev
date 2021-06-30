@@ -1,0 +1,28 @@
+[
+  {
+    "package": "vegperiod",
+    "url": "https://github.com/rnuske/vegperiod"
+  },
+
+  {
+    "package": "apcf",
+    "url": "https://github.com/rnuske/apcf"
+  },
+
+  {
+    "package": "TreeGrOSSinR",
+    "url": "https://github.com/rnuske/TreeGrOSSinR"
+  },
+  
+  {
+    "package": "LWFBrook90R",
+    "url": "https://github.com/pschmidtwalter/LWFBrook90R",
+    "branch" : "*release"
+  },
+  
+  {
+    "package": "optimization",
+    "url": "https://github.com/kaihusmann/optimization",
+    "branch" : "*release"
+  }
+]

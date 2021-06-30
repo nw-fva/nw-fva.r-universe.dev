@@ -22,7 +22,6 @@
   
   {
     "package": "optimization",
-    "url": "https://github.com/kaihusmann/optimization",
-    "branch" : "*release"
+    "url": "https://github.com/kaihusmann/optimization"
   }
 ]

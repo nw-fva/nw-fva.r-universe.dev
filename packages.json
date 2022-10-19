@@ -1,4 +1,9 @@
 [
+    {
+    "package": "et.nwfva",
+    "url": "https://github.com/rnuske/et.nwfva"
+  },
+  
   {
     "package": "vegperiod",
     "url": "https://github.com/rnuske/vegperiod"

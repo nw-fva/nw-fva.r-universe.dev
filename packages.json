@@ -1,22 +1,26 @@
 [
     {
     "package": "et.nwfva",
-    "url": "https://github.com/rnuske/et.nwfva"
+    "url": "https://github.com/rnuske/et.nwfva",
+    "branch" : "*release"
   },
   
   {
     "package": "vegperiod",
-    "url": "https://github.com/rnuske/vegperiod"
+    "url": "https://github.com/rnuske/vegperiod",
+    "branch" : "*release"
   },
 
   {
     "package": "apcf",
-    "url": "https://github.com/rnuske/apcf"
+    "url": "https://github.com/rnuske/apcf",
+    "branch" : "*release"
   },
 
   {
     "package": "TreeGrOSSinR",
-    "url": "https://github.com/rnuske/TreeGrOSSinR"
+    "url": "https://github.com/rnuske/TreeGrOSSinR",
+    "branch" : "*release"
   },
   
   {
